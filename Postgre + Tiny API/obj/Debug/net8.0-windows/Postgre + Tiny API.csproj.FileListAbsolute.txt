@@ -1,0 +1,34 @@
+C:\Users\User\source\repos\Postgre + Tiny API\bin\Debug\net8.0-windows\Postgre + Tiny API.exe
+C:\Users\User\source\repos\Postgre + Tiny API\bin\Debug\net8.0-windows\Postgre + Tiny API.deps.json
+C:\Users\User\source\repos\Postgre + Tiny API\bin\Debug\net8.0-windows\Postgre + Tiny API.runtimeconfig.json
+C:\Users\User\source\repos\Postgre + Tiny API\bin\Debug\net8.0-windows\Postgre + Tiny API.dll
+C:\Users\User\source\repos\Postgre + Tiny API\bin\Debug\net8.0-windows\Postgre + Tiny API.pdb
+C:\Users\User\source\repos\Postgre + Tiny API\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\source\repos\Postgre + Tiny API\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\source\repos\Postgre + Tiny API\bin\Debug\net8.0-windows\Npgsql.dll
+C:\Users\User\source\repos\Postgre + Tiny API\obj\Debug\net8.0-windows\Postgre + Tiny API.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Postgre + Tiny API\obj\Debug\net8.0-windows\Postgre___Tiny_API.Form1.resources
+C:\Users\User\source\repos\Postgre + Tiny API\obj\Debug\net8.0-windows\Postgre + Tiny API.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Postgre + Tiny API\obj\Debug\net8.0-windows\Postgre + Tiny API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Postgre + Tiny API\obj\Debug\net8.0-windows\Postgre + Tiny API.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Postgre + Tiny API\obj\Debug\net8.0-windows\Postgre + Tiny API.AssemblyInfo.cs
+C:\Users\User\source\repos\Postgre + Tiny API\obj\Debug\net8.0-windows\Postgre + Tiny API.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Postgre + Tiny API\obj\Debug\net8.0-windows\Postgre .BF071459.Up2Date
+C:\Users\User\source\repos\Postgre + Tiny API\obj\Debug\net8.0-windows\Postgre + Tiny API.dll
+C:\Users\User\source\repos\Postgre + Tiny API\obj\Debug\net8.0-windows\refint\Postgre + Tiny API.dll
+C:\Users\User\source\repos\Postgre + Tiny API\obj\Debug\net8.0-windows\Postgre + Tiny API.pdb
+C:\Users\User\source\repos\Postgre + Tiny API\obj\Debug\net8.0-windows\Postgre + Tiny API.genruntimeconfig.cache
+C:\Users\User\source\repos\Postgre + Tiny API\obj\Debug\net8.0-windows\ref\Postgre + Tiny API.dll
+C:\Users\User\source\repos\Postgre + Tiny API\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.dll
+C:\Users\User\source\repos\Postgre + Tiny API\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\source\repos\Postgre + Tiny API\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\User\source\repos\Postgre + Tiny API\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\source\repos\Postgre + Tiny API\bin\Debug\net8.0-windows\Microsoft.Extensions.Diagnostics.dll
+C:\Users\User\source\repos\Postgre + Tiny API\bin\Debug\net8.0-windows\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\User\source\repos\Postgre + Tiny API\bin\Debug\net8.0-windows\Microsoft.Extensions.Http.dll
+C:\Users\User\source\repos\Postgre + Tiny API\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\User\source\repos\Postgre + Tiny API\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\User\source\repos\Postgre + Tiny API\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\User\source\repos\Postgre + Tiny API\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\User\source\repos\Postgre + Tiny API\bin\Debug\net8.0-windows\System.Diagnostics.DiagnosticSource.dll
+C:\Users\User\source\repos\Postgre + Tiny API\obj\Debug\net8.0-windows\Postgre___Tiny_API.Properties.Resources.resources

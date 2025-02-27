@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\3D Objects\\GitHub Kelvin\\Laboratorio\\Postgre \u002B Tiny API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C28E81B-337C-4EAB-BF81-0819BA65CD70}|Postgre \u002B Tiny API.csproj|c:\\users\\user\\3d objects\\github kelvin\\laboratorio\\postgre \u002B tiny api\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C28E81B-337C-4EAB-BF81-0819BA65CD70}|Postgre \u002B Tiny API.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C28E81B-337C-4EAB-BF81-0819BA65CD70}|Postgre \u002B Tiny API.csproj|c:\\users\\user\\3d objects\\github kelvin\\laboratorio\\postgre \u002B tiny api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C28E81B-337C-4EAB-BF81-0819BA65CD70}|Postgre \u002B Tiny API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C28E81B-337C-4EAB-BF81-0819BA65CD70}|Postgre \u002B Tiny API.csproj|C:\\Users\\User\\3D Objects\\GitHub Kelvin\\Laboratorio\\Postgre \u002B Tiny API\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1C28E81B-337C-4EAB-BF81-0819BA65CD70}|Postgre \u002B Tiny API.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C28E81B-337C-4EAB-BF81-0819BA65CD70}|Postgre \u002B Tiny API.csproj|c:\\users\\user\\3d objects\\github kelvin\\laboratorio\\postgre \u002B tiny api\\classejsoncomplemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C28E81B-337C-4EAB-BF81-0819BA65CD70}|Postgre \u002B Tiny API.csproj|solutionrelative:classejsoncomplemento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\3D Objects\\GitHub Kelvin\\Laboratorio\\Postgre \u002B Tiny API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\3D Objects\\GitHub Kelvin\\Laboratorio\\Postgre \u002B Tiny API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T12:21:45.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\3D Objects\\GitHub Kelvin\\Laboratorio\\Postgre \u002B Tiny API\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\User\\3D Objects\\GitHub Kelvin\\Laboratorio\\Postgre \u002B Tiny API\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowJgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T12:06:05.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClasseJsonComplemento.cs",
+              "DocumentMoniker": "C:\\Users\\User\\3D Objects\\GitHub Kelvin\\Laboratorio\\Postgre \u002B Tiny API\\ClasseJsonComplemento.cs",
+              "RelativeDocumentMoniker": "ClasseJsonComplemento.cs",
+              "ToolTip": "C:\\Users\\User\\3D Objects\\GitHub Kelvin\\Laboratorio\\Postgre \u002B Tiny API\\ClasseJsonComplemento.cs",
+              "RelativeToolTip": "ClasseJsonComplemento.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T14:47:27.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\3D Objects\\GitHub Kelvin\\Laboratorio\\Postgre \u002B Tiny API\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Postgre \u002B Tiny API\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\source\\repos\\Postgre \u002B Tiny API\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T12:02:55.068Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
