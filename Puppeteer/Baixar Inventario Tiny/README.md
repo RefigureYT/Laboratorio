@@ -21,7 +21,7 @@ Este script utiliza **Puppeteer** e **Express.js** para automatizar o login no *
 
 ```sh
 git clone https://github.com/RefigureYT/Laboratorio.git
-cd "Puppeteer/Baixar Inventario Tiny/"
+cd "Puppeteer/Baixar Inventário Tiny"
 ```
 
 ### 2️⃣ Instale as dependências
@@ -77,7 +77,7 @@ POST /run-relatorio
 
 ### **2️⃣ Baixar o Relatório**
 
-Retorna o arquivo gerado.
+Retorna o arquivo mais recente gerado.
 
 **Request:**
 
@@ -88,6 +88,28 @@ GET /download
 **Response:**
 
 - Faz o download do arquivo `.xls`.
+
+---
+
+## 🔄 Tratamento de Erros
+
+- **Re-tentativas Automáticas**
+
+```javascript
+await retryOnFail(async () => {
+    await page.click('#btn-download');
+}, 5, 3000); // Tenta até 5 vezes com intervalo de 3 segundos
+```
+
+- **Continuação Mesmo com Erros**
+
+```javascript
+try {
+    await page.goto(reportURL, { waitUntil: 'networkidle2', timeout: 60000 });
+} catch (error) {
+    console.warn("⚠️ Erro ao carregar a página de download. Continuando o script...");
+}
+```
 
 ---
 
@@ -192,5 +214,5 @@ Se encontrar bugs ou quiser sugerir melhorias, sinta-se à vontade para abrir um
 
 ## 💡 Autor
 
-Criado por **Kelvin Mattos**. Conecte-se comigo no [GitHub](https://github.com/RefigureYT).
+Criado por **Kelvin Mattos**. Conecte-se comigo no [GitHub](https://github.com/seu-usuario).
 
